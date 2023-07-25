@@ -35,7 +35,7 @@
             cartManager.Add2("Watermelon", "Diyarbakır watermelon", 12,8);
 
 
-            //1:31:40 3. Gün c# temellerinde kaldım
+           
         }
     }
 }
